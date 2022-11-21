@@ -1,5 +1,5 @@
 # MapSearch
-O programa recebe coordenadas inseridos pelo usuário,
+O programa recebe coordenadas inseridas pelo usuário,
 e então gera uma página do Google Maps na coordenada.
 
 Funciona somente com o Google Chrome.
